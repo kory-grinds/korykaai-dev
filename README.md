@@ -1,7 +1,7 @@
 ![welcome-top](https://user-images.githubusercontent.com/69431357/180352301-8a6c42dc-3328-40fc-a3e8-d0360904b1c6.gif)
 
 <h1 align="left">Hi 👋, I'm Kory</h1>
-<h3 align="left">A passionate Full-Stack developer from Texas, USA.</h3>
+<h3 align="left">A passionate Full-Stack developer</h3>
 
 <p align="left">
   <img src="https://user-images.githubusercontent.com/69431357/181859639-dfae66e1-7f99-4518-b7be-1771bd783a7d.gif" width="400px")
@@ -19,8 +19,6 @@
 - 🔭 I’m currently working on [Veteran One Up](https://veteranoneup.com/)
 
 - 👨‍💻 All of my projects are available at [www.korykaai.com](www.korykaai.com)
-
-- 📝 I regularly write articles on [blog.korykaai.com](blog.korykaai.com)
 
 - 📫 How to reach me? DM me on Twitter [twitter.com/korykaai](twitter.com/korykaai).
 
